@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/banner.png" alt="Banner" />
+</p>
 
 
 

@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/banner.png" alt="Banner" />
+  <img src="https://github.com/prathipa-u/prathipa-u/blob/main/github-header-banner.png" alt="Banner" />
 </p>
-
-
 
 
 ## 🛠️ Languages and Tools
